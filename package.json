@@ -8,10 +8,8 @@
     "jqwidgets-scripts": "^8.1.4",
     "lodash": "^4.17.15",
     "react": "^16.9.0",
-    "react-charts": "^2.0.0-alpha.12",
     "react-dom": "^16.9.0",
     "react-geocode": "^0.1.2",
-    "react-google-maps": "^9.4.5",
     "react-scripts": "3.1.1",
     "recharts": "^1.7.1"
   },
