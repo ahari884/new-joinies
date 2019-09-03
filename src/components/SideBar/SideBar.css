@@ -1,0 +1,30 @@
+.sidebar {
+    width: 185px;
+    height: 110%;
+    background-color: #1d276b;
+    position: absolute;
+    color: white;
+    margin-top: 21px;
+    border: solid black 1px;
+}
+
+.divider{
+    height: 1px;
+    background-color: white;
+}
+
+.option-active{
+    background-color: white;
+    color: #1d276b;
+    height: 40px;
+    cursor: pointer;
+}
+
+.option{
+    height: 40px;
+    cursor: pointer;
+}
+
+h3{
+    padding-top: 10px;
+}
