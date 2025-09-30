@@ -6,7 +6,7 @@
     "@material-ui/core": "^4.4.0",
     "google-maps-react": "^2.0.2",
     "jqwidgets-scripts": "^8.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-geocode": "^0.1.2",
